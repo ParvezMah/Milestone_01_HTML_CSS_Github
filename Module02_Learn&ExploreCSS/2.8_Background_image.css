@@ -1,0 +1,11 @@
+.header{
+    height: 300px;
+    background-image: url(/Module02_Learn&ExploreCSS/ZiClJf-1920w.jpg);
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 500px; */
+
+}

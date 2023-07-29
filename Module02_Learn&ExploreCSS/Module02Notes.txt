@@ -1,0 +1,7 @@
+CSS will be understand with work & practise.
+
+2.3 - Must understand difference between Fixed Units & Relative Units
+2.7 - Interview Questions
+      1. difference between display and visibility?
+
+      -> Box Shadow niye ektu expertise earn korte hobe.
